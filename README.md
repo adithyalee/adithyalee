@@ -1,251 +1,421 @@
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                  ADITHYA THANINKI — GitHub Profile README              -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2B5E,100:1a6eff&height=200&section=header&text=Adithya%20Thaninki&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Co-op%20Candidate%20%7C%20Ottawa%2C%20ON&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ═══════════════  ANIMATED HEADER BANNER  ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adithya%20Thaninki&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20MEng%20%40%20Carleton%20%7C%20Co-op%20May%202026&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1a6eff&center=true&vCenter=true&width=700&lines=MEng+Software+Engineering+%40+Carleton+University;15%2B+Months+Industry+Experience+%40+TCS;Building+AI+%2B+Cloud-Native+Systems;Open+to+Co-op+%7C+May+2026+%E2%86%92+Onward;100%25+Dedicated+%7C+Ready+to+Ship+Day+One+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- ═══════════════  ANIMATED TYPING SVG  ═══════════════ -->
+<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=Enterprise+Software+Engineer+%40+TCS+%E2%80%94+2M%2B+txns%2Fday;Full-Stack+%7C+AI+Pipelines+%7C+DevOps+%7C+Cloud;MEng+Software+Engineering+%40+Carleton+University;Peer-Reviewed+Researcher+%2B+Production+Engineer;Available+for+Co-op+%E2%80%94+May+2026+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════  SOCIAL / CONTACT BADGES  ═══════════════ -->
+<a href="https://linkedin.com/in/adithyathaninki">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:adithya040@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/adithyalee">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Ottawa%2C%20ON-Canada-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=adithyalee&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D2B5E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyathaninki)
-[![Email](https://img.shields.io/badge/Email-adithya040%40gmail.com-1a6eff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithya040@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-adithyalee-0D2B5E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adithyalee)
-[![Location](https://img.shields.io/badge/Ottawa%2C%20ON-Canada%20🇨🇦-red?style=for-the-badge)](https://github.com/adithyalee)
-
-</div>
-
 ---
 
-<div align="center">
+<!-- ═══════════════  ABOUT ME — YAML STYLE  ═══════════════ -->
 
-## 🎯 Who Am I?
+```yaml
+# adithya.config.yml ─────────────────────────────────────────────────────────
 
-</div>
+name          : Adithya Thaninki
+role          : Software Engineer → MEng Student (Co-op)
+university    : Carleton University, Ottawa | CGPA: 3.65/4.0
+available     : May 2026 · 4 / 8 / 12-month Co-op
 
-```python
-class Adithya:
-    def __init__(self):
-        self.name         = "Adithya Thaninki"
-        self.degree       = "MEng Software Engineering @ Carleton University"
-        self.experience   = "15+ months @ Tata Consultancy Services"
-        self.location     = "Ottawa, ON 🇨🇦"
-        self.coop_ready   = "May 2026 → Available Now"
-        self.work_ethic   = "100% dedicated. Every. Single. Day."
+production    :
+  - Java microservices @ Tata Consultancy Services
+  - Scale: 2,000,000+ daily transactions | 99.9% uptime SLA
+  - Monitoring: Datadog | CI/CD: Jenkins | Version Control: Git
 
-    def what_drives_me(self):
-        return [
-            "🔥 I don't just write code — I solve problems",
-            "📦 I ship things. Real things. In production.",
-            "🌱 I learn fast, adapt faster, and never stop growing",
-            "🤝 I thrive in teams and lift everyone around me",
-        ]
+shipped       :
+  - Full-Stack AI Video Engine (Next.js 15 + Docker + 4-stage AI pipeline)
+  - AI UI/UX Mockup Generator (NLP → real-time wireframes)
 
-    def currently_learning(self):
-        return ["Docker Deep Dive", "Cloud Architecture", "Distributed Systems Design"]
+research      :
+  - Peer-reviewed publication @ ICRTC 2023
+  - 91% object detection accuracy (+12% over baseline)
+  - 14% classification precision improvement
 
-me = Adithya()
+currently     :
+  - 🔭 Building distributed systems & AI-powered tools
+  - 🌱 Deepening expertise in cloud-native architecture
+  - 🤝 Open to co-op roles in backend, full-stack, AI/ML, DevOps
+
+fun_fact      : "I maintained airline + transit systems for millions of
+                 daily users before finishing my Master's degree 🚀"
 ```
 
----
-
-<div align="center">
-
-## 🏆 Experience That Actually Matters
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Software Engineer — TCS
-`May 2024 → Aug 2025`
-
-> Enterprise-scale. Global platforms. Real stakes.
-
-- ⚙️ Maintained **Java microservices** for global airline & transit systems handling **millions of daily transactions**
-- 🔍 Debugged production incidents using **Datadog** — structured root-cause analysis across distributed service layers
-- 🚀 Automated release pipelines via **Jenkins CI/CD** across multi-team Git environments
-- 📝 Authored technical documentation for high-traffic international services
-- 🌍 Collaborated with **cross-functional Agile/Scrum teams** across geographies
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 CV Research Intern — CSIR-CEERI
-`Jan 2022 → May 2023`
-
-> Published. Peer-reviewed. Internationally presented.
-
-- 🧠 Built **object recognition pipelines** in Python using OpenCV + Scikit-learn
-- 📊 Achieved **91% detection accuracy** — 12% improvement over baseline
-- 🗂️ Trained across **10,000+ high-dimensionality image samples**
-- 📐 Applied feature-selection across **3+ model architectures**
-- 🎤 Findings presented to **200+ international researchers**
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
+<!-- ═══════════════  TECH STACK — SKILL ICONS  ═══════════════ -->
+
 <div align="center">
 
-## 🚀 Projects I'm Proud Of
+## 🛠️ Tech Stack & Tools
+
+### Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp,html,css&theme=dark&perline=8" alt="Languages"/>
+</a>
+
+### Frameworks & Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,spring&theme=dark&perline=8" alt="Frameworks"/>
+</a>
+
+### Databases & Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,redis&theme=dark&perline=8" alt="Databases"/>
+</a>
+
+### DevOps, Cloud & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,azure,aws,linux,vscode&theme=dark&perline=8" alt="DevOps"/>
+</a>
+
+### AI & Machine Learning
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Replicate%20API-000000?style=for-the-badge&logo=replicate&logoColor=white"/>
 
 </div>
 
-### 🎬 Full-Stack AI Video Engine & Orchestration Platform
-> *The one that made me fall in love with distributed systems*
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adithyalee&repo=adithyalee&theme=tokyonight&hide_border=true)](https://github.com/adithyalee)
-
-```
-📦 Stack: Next.js 15 · TypeScript · Gemini API · Replicate API
-         Google TTS · Remotion · Inngest · Neon DB · Docker · Docker Hub
-```
-
-| What I Built | Why It Matters |
-|---|---|
-| 🐳 Dockerized full production system, pushed to Docker Hub | Cloud-agnostic, reproducible — dev = production |
-| 🤖 4-stage AI pipeline: Script → Voice → Image → Video | End-to-end automation from raw text to rendered content |
-| ⚡ Inngest event-driven orchestration | Fault-tolerant background jobs with step-by-step execution |
+<br/>
 
 ---
 
-### 🎨 AI UI/UX Mockup Generator *(Exploration Project)*
-
-```
-📦 Stack: Next.js · React · Tailwind CSS · Neon DB · Clerk Auth
-```
-
-- 🖌️ Natural language → real-time UI wireframes via canvas-based rendering engine
-- 💾 PostgreSQL-backed persistence + Clerk authentication
-
----
-
-<div align="center">
-
-## 🛠️ My Tech Arsenal
-
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📜 Certifications
-
-</div>
-
-<div align="center">
-
-| 🏅 Certification | 🏢 Issuer |
-|:---:|:---:|
-| Azure Fundamentals (AZ-900) | Microsoft |
-| Azure AI Fundamentals (AI-900) | Microsoft |
-| Cloud Practitioner | AWS |
-| Machine Learning Professional | IBM |
-
-</div>
-
----
+<!-- ═══════════════  GITHUB STATS  ═══════════════ -->
 
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=adithyalee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyalee&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adithyalee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyalee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyalee&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- GitHub Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=adithyalee&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
+
+</div>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adithyalee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ---
+
+<!-- ═══════════════  FEATURED PROJECTS  ═══════════════ -->
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-## 📚 Published Research
+<!-- Project 1 -->
+<a href="https://github.com/adithyalee">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adithyalee&repo=ai-video-engine&theme=tokyonight&hide_border=true&description_lines_count=2" alt="AI Video Engine" />
+</a>
+&nbsp;
+<!-- Project 2 -->
+<a href="https://github.com/adithyalee">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adithyalee&repo=ai-mockup-generator&theme=tokyonight&hide_border=true&description_lines_count=2" alt="AI Mockup Generator"/>
+</a>
 
 </div>
-
-> **Feature Over Exemplification Classification**
-> *ICRTC – International Conference on Recent Trends in Computing, 2023 | Peer-Reviewed*
-
-- 🎯 14% improvement in classification precision over baseline
-- 📊 Dataset: 5,000+ samples with advanced feature-selection techniques
-- 🌍 Presented to 200+ international researchers
-
----
-
-<div align="center">
-
-## 🌱 Why Hire Me for Co-op?
-
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   I'm not looking for a role to put on my resume.               ║
-║   I'm looking for a team to grow with and a problem to own.     ║
-║                                                                  ║
-║   ✅ I have real industry experience — not just coursework       ║
-║   ✅ I've shipped production systems that actually run           ║
-║   ✅ I learn fast — give me a week on any new stack              ║
-║   ✅ I show up every day at 100%. That's not a claim, it's me.  ║
-║                                                                  ║
-║   Available: May 2026 | 4, 8, or 12-month Co-op term            ║
-║   Location:  Ottawa, ON 🇨🇦 (open to remote/hybrid)            ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-## 📬 Let's Talk
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adithya%20Thaninki-0D2B5E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyathaninki)
-[![Email](https://img.shields.io/badge/Email-adithya040%40gmail.com-1a6eff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithya040@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-adithyalee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adithyalee)
 
 <br/>
 
-*"The best time to plant a tree was 20 years ago. The second best time is now."*
-*— I'm planting mine, one commit at a time. 🌱*
+### 🎬 Full-Stack AI Video Engine & Orchestration Platform
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6eff,100:0D2B5E&height=120&section=footer&animation=fadeIn" width="100%"/>
+> **Architected a distributed system automating short-form video production from raw text input through a 4-stage sequential AI pipeline.**
+
+| Layer | Tech |
+|---|---|
+| 🎨 **Frontend** | Next.js 15, TypeScript, Tailwind CSS |
+| 🧠 **AI Pipeline** | Gemini API → Replicate API → Google TTS → Remotion |
+| ⚙️ **Orchestration** | Inngest (event-driven, fault-tolerant background jobs) |
+| 🗄️ **Database** | Neon DB (PostgreSQL) · Prisma ORM |
+| 🐳 **DevOps** | Docker · Docker Hub (cloud-agnostic production deployment) |
+| 🔐 **Auth** | Clerk Auth |
+
+```
+Raw Text ──► [1] Script Generation (Gemini)
+                    ──► [2] Voiceover (Google TTS)
+                               ──► [3] Image Generation (Replicate)
+                                           ──► [4] Video Rendering (Remotion)
+                                                         ──► 🎬 Final Video
+```
+
+<br/>
+
+### 🎨 AI UI/UX Mockup Generator (SaaS)
+
+> **Converts natural-language prompts to real-time UI wireframes via canvas-based rendering.**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
+
+<br/><br/>
+
+---
+
+<!-- ═══════════════  EXPERIENCE TIMELINE  ═══════════════ -->
+
+## 💼 Experience
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│  🏢  TATA CONSULTANCY SERVICES                        May 2024 – Aug 2025  │
+│      Software Engineer · Chennai, India                                     │
+│                                                                             │
+│      ✦  Maintained Java microservices for global airline & transit          │
+│         platforms — 2M+ daily transactions, 99.9% uptime SLA               │
+│      ✦  Monitored distributed systems with Datadog; resolved               │
+│         production bottlenecks via root-cause analysis                      │
+│      ✦  Automated deployments via Jenkins CI/CD pipelines (3+ stages)      │
+│      ✦  Authored 3+ enterprise technical specifications                     │
+│      ✦  Agile/Scrum · 8-engineer cross-functional team                      │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  🔬  CSIR-CEERI (Research Intern)                     Jan 2022 – May 2023  │
+│      Computer Vision Research · Chennai, India                              │
+│                                                                             │
+│      ✦  Designed & trained object recognition pipelines (Python,           │
+│         OpenCV, Scikit-learn) on 10,000+ image samples                      │
+│      ✦  Achieved 91% detection accuracy → +12% over baseline               │
+│      ✦  Tested 3+ model architectures with feature-selection               │
+│      ✦  Published findings at ICRTC 2023 (peer-reviewed)                   │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+<!-- ═══════════════  EDUCATION  ═══════════════ -->
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Period | GPA |
+|--------|-------------|--------|-----|
+| 🇨🇦 **MEng – Software Engineering (Co-op)** | Carleton University, Ottawa | 2025 – 2027 | **3.65 / 4.0** |
+| 🇮🇳 **BTech – Computer Science & Engineering** | Vel Tech University, Chennai | 2019 – 2023 | **8.7 / 10** |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════  PUBLICATION  ═══════════════ -->
+
+## 📄 Publication
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="80">📰</td>
+<td>
+<strong>Feature Over Exemplification Classification</strong><br/>
+<em>ICRTC – International Conference on Recent Trends in Computing, 2023 · Peer-Reviewed</em><br/>
+Applied ML classification with advanced feature-selection on 5,000+ samples.<br/>
+Achieved <strong>+14% improvement</strong> in classification precision over baseline.<br/>
+Presented to <strong>200+ researchers</strong>.
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════  CERTIFICATIONS  ═══════════════ -->
+
+## 🏆 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals-AI--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM%20ML%20Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════  CONTRIBUTION SNAKE  ═══════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adithyalee/adithyalee/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adithyalee/adithyalee/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/adithyalee/adithyalee/output/github-snake.svg" />
+</picture>
+
+> ⚙️ **To enable the snake:** Create `.github/workflows/snake.yml` in your profile repo — see setup instructions below ↓
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════  ACTIVITY GRAPH  ═══════════════ -->
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyalee&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════  WHAT I'M OPEN TO  ═══════════════ -->
+
+## 🎯 Open To
+
+<div align="center">
+
+| Role Type | Stack Match | Duration |
+|-----------|------------|----------|
+| 🔧 **Backend / API Engineering** | Java, Spring Boot, Microservices, REST, PostgreSQL | 4–12 months |
+| ☁️ **DevOps / Cloud Engineering** | Docker, Jenkins CI/CD, Azure, AWS, Datadog | 4–12 months |
+| 🌐 **Full-Stack Development** | Next.js 15, TypeScript, React, PostgreSQL | 4–12 months |
+| 🤖 **AI / ML Engineering** | Python, Scikit-learn, Pandas, OpenCV, LLM APIs | 4–12 months |
+
+**📅 Available: May 2026 · Ottawa, ON (open to remote & hybrid)**
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════  SNAKE WORKFLOW SETUP NOTE  ═══════════════ -->
+
+<details>
+<summary>⚙️ <strong>Enable the Snake Animation (one-time setup)</strong></summary>
+<br/>
+
+Create this file in your profile repo at `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: adithyalee
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After first run, your snake will live-update every 12 hours! 🐍
+
+</details>
+
+<br/>
+
+---
+
+<!-- ═══════════════  FOOTER WAVE  ═══════════════ -->
+
+<div align="center">
+
+### 💬 Let's Connect
+
+<a href="https://linkedin.com/in/adithyathaninki">
+  <img src="https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:adithya040@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*"I didn't wait to graduate to build production systems. I built them."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
