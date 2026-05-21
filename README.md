@@ -303,7 +303,8 @@ Presented to <strong>200+ researchers</strong>.
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/adithyalee/adithyalee/output/github-snake.svg" />
 </picture>
 
-> ⚙️ **To enable the snake:** Create `.github/workflows/snake.yml` in your profile repo — see setup instructions below ↓
+> ![GitHub Snake Animation](https://raw.githubusercontent.com/adithyalee/adithyalee/output/snake.svg)
+
 
 </div>
 
