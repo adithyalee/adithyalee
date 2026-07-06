@@ -120,18 +120,14 @@ fun_fact      : "I maintained airline + transit systems for millions of
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=adithyalee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adithyalee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&hide=stars,issues,contribs" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyalee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adithyalee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyalee&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=adithyalee&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
+<!-- Isometric Commit Calendar -->
+<img src="https://metrics.lecoq.io/adithyalee?template=classic&base=activity&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year" alt="Isometric Commit Calendar"/>
 
 </div>
 
@@ -147,17 +143,17 @@ fun_fact      : "I maintained airline + transit systems for millions of
 
 <!-- Project 1 -->
 <a href="https://github.com/adithyalee/Project-Aether">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adithyalee&repo=Project-Aether&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Project Aether" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adithyalee&repo=Project-Aether&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Project Aether" />
 </a>
 &nbsp;
 <!-- Project 2 -->
 <a href="https://github.com/adithyalee/Vediomax-AI-video-generator-scheduler">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adithyalee&repo=Vediomax-AI-video-generator-scheduler&theme=tokyonight&hide_border=true&description_lines_count=2" alt="AI Video Engine" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adithyalee&repo=Vediomax-AI-video-generator-scheduler&theme=tokyonight&hide_border=true&description_lines_count=2" alt="AI Video Engine" />
 </a>
 &nbsp;
 <!-- Project 3 -->
 <a href="https://github.com/adithyalee/uiuxmockup">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adithyalee&repo=uiuxmockup&theme=tokyonight&hide_border=true&description_lines_count=2" alt="AI Mockup Generator"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adithyalee&repo=uiuxmockup&theme=tokyonight&hide_border=true&description_lines_count=2" alt="AI Mockup Generator"/>
 </a>
 
 </div>
