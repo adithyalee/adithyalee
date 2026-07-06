@@ -146,20 +146,39 @@ fun_fact      : "I maintained airline + transit systems for millions of
 <div align="center">
 
 <!-- Project 1 -->
-<a href="https://github.com/adithyalee">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adithyalee&repo=ai-video-engine&theme=tokyonight&hide_border=true&description_lines_count=2" alt="AI Video Engine" />
+<a href="https://github.com/adithyalee/Project-Aether">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adithyalee&repo=Project-Aether&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Project Aether" />
 </a>
 &nbsp;
 <!-- Project 2 -->
-<a href="https://github.com/adithyalee">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adithyalee&repo=ai-mockup-generator&theme=tokyonight&hide_border=true&description_lines_count=2" alt="AI Mockup Generator"/>
+<a href="https://github.com/adithyalee/Vediomax-AI-video-generator-scheduler">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adithyalee&repo=Vediomax-AI-video-generator-scheduler&theme=tokyonight&hide_border=true&description_lines_count=2" alt="AI Video Engine" />
+</a>
+&nbsp;
+<!-- Project 3 -->
+<a href="https://github.com/adithyalee/uiuxmockup">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adithyalee&repo=uiuxmockup&theme=tokyonight&hide_border=true&description_lines_count=2" alt="AI Mockup Generator"/>
 </a>
 
 </div>
 
 <br/>
 
-### 🎬 Full-Stack AI Video Engine & Orchestration Platform
+### 🤖 Project Aether — The Self-Evolving Digital Twin
+
+> **A modular, offline-capable AI voice assistant and digital twin designed to run on any hardware. Automates OS control, schedules routines, and handles persistent memory.**
+
+| Component | Tech |
+|---|---|
+| 🧠 **Primary Cognition** | Google Gemini 2.0 Flash (API) with local fallback to Ollama (`phi4-mini`) |
+| 🎙️ **Voice Processing** | offline `faster-whisper` (STT) + highly realistic `Kokoro TTS` (ONNX) |
+| 🧠 **Neural Memory** | `mem0` (fact manager) + Obsidian Vault (long-term memory integration) |
+| ⚡ **Caching & RAG** | ChromaDB & `txtai` (for sub-100ms command routing cache) |
+| ⚙️ **OS Control** | Playwright / PyAutoGUI (browser navigation & desktop automation) |
+
+<br/>
+
+### 🎬 VideoMax — Full-Stack AI Video Engine & Orchestration Platform
 
 > **Architected a distributed system automating short-form video production from raw text input through a 4-stage sequential AI pipeline.**
 
