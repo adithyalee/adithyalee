@@ -322,8 +322,6 @@ Presented to <strong>200+ researchers</strong>.
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/adithyalee/adithyalee/output/github-snake.svg" />
 </picture>
 
-> ![GitHub Snake Animation](https://raw.githubusercontent.com/adithyalee/adithyalee/output/snake.svg)
-
 
 </div>
 
